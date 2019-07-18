@@ -51,7 +51,7 @@ Network is a type of organization focused on connecting members for collaboratio
 
 ### Increase Team Capacity
 
-* **Regular Open workshops/groups in the ecosystem and community**
+* Regular Open workshops/groups in the ecosystem and community
   * Create Partnerships work \(monthly working group call or else for more efficient research\) \#Governance \(advisors, experts\) Crash test / Ideation
 * Collect / Monthly review grant programs, hackathons, [incubators / accelerators](https://wiki.4irelabs.com/docs/research/blockchain-accelerators-and-incubators)
 

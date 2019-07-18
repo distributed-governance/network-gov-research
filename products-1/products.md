@@ -2,7 +2,7 @@
 
 ## User journey
 
-![](.gitbook/assets/image.png)
+![](../.gitbook/assets/image.png)
 
 
 
