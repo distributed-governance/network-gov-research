@@ -10,7 +10,7 @@ Network is a type of organization focused on connecting members for collaboratio
 
 1. Network Foundations \(Ethereum Foundation, Internet Foundation, Decentralized Identity Foundation\)
 2. Platform Cooperatives \(electricity, data, hacktivists, DEX etc mostly digital\)
-3. Public Communities \(Neighborhood Projects, Fan Tournaments etc\)
+3. Public Communities \(Neighborhood, Fan projects etc\)
 4. Consortia and Associations \([Ethereum Enterprise Alliance](https://entethalliance.org/)**,** Libra Network\)
 
 ## Goals
