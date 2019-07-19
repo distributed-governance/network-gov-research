@@ -66,9 +66,10 @@ Network is a type of organization focused on connecting members for collaboratio
 
 [**Moloch**](https://molochdao.com/) – A community DAO focused on funding Ethereum development, in the name of Moloch the God of Coordination Failure
 
-## Policies
+## Policies \(WIP\)
 
 * Public Domain
 * [Kanban board](https://github.com/distributed-governance/network-research/issues#workspaces/research-status-5d308fff78c7c33c6adcd325/board)
 * Peer review
+* Vote for the researches
 
