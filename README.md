@@ -57,7 +57,6 @@ Network is a type of organization focused on connecting members for collaboratio
 * Regular Open workshops/groups in the ecosystem and community
   * Create Partnerships work \(monthly working group call or else for more efficient research\) \#Governance \(advisors, experts\) Crash test / Ideation
 * Collect / Monthly review grant programs, hackathons, [incubators / accelerators](https://wiki.4irelabs.com/docs/research/blockchain-accelerators-and-incubators)
-* Find sponsors on specific researches
 * \(+Help scholars, ask them to help us with wiki etc\)
 
 #### Use Grants
@@ -72,4 +71,5 @@ Network is a type of organization focused on connecting members for collaboratio
 * [Kanban board](https://github.com/distributed-governance/network-research/issues#workspaces/research-status-5d308fff78c7c33c6adcd325/board)
 * Peer review
 * Vote for the researches
+* Find sponsors on specific researches
 
