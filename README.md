@@ -65,6 +65,13 @@ Network is a type of organization focused on connecting members for collaboratio
 
 [**Moloch**](https://molochdao.com/) – A community DAO focused on funding Ethereum development, in the name of Moloch the God of Coordination Failure
 
+### Align with the market
+
+*  [https://hackmd.io/@stellarmagnet/S1YR1edJr](https://hackmd.io/@stellarmagnet/S1YR1edJr)
+* Giveth gov labs
+* [https://1hive.org/](https://1hive.org/)
+* [ISSDG](https://issdg.org/) 
+
 ## Policies \(WIP\)
 
 * Public Domain
