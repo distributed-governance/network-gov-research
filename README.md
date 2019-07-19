@@ -69,5 +69,6 @@ Network is a type of organization focused on connecting members for collaboratio
 ## Policies
 
 * Public Domain
+* [Kanban board](https://github.com/distributed-governance/network-research/issues#workspaces/research-status-5d308fff78c7c33c6adcd325/board)
 * Peer review
 
