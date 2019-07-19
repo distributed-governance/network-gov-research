@@ -17,18 +17,20 @@ Network is a type of organization focused on connecting members for collaboratio
 
 ### Improve the efficiency of Network Foundations
 
-* Glossary with words like commons, governance, egalitarian, plutocracy etc.
-* Ethereum, MakerDAO, Cardano, Grin, Bitcoin, Polkdadot, Cosmos, Decred, MolochDAO  governance case studies. Development on existent governance case studies though deeper analytics and interviews with network stakeholders.
-* Soft governance practices in blockchain organizations through interviews with HR/Facilitators and teams. Plus existent tools review like loomio or zoom rooms.
-* Making better \(protocol\) decisions
-  * Get more valuable info on stances / Signalling on the proposals
-* Funding public goods
-* Partner with RMIT
-* Update the [Governance family tree](https://coinmetrics.io/papers/dissertation.pdf) \(+Help scholars, ask them to help us with wiki etc\)
+* [Collect the info on the current network governance](https://mapping.daolandscape.today/network-governance/blockchain-summary)
+  * Update the Governance family tree: Ethereum, MakerDAO, Cardano, Grin, Bitcoin, Polkdadot, Cosmos, Decred, MolochDAO  governance case studies. Development on existent governance case studies though deeper analytics and interviews with network stakeholders.
+  * Glossary with words like commons, governance, egalitarian, plutocracy etc.
+* Research: Increase the probability and speed of consensus on protocol changes
+  * Identifying the tensions
+  * Creating proposals
+  * Collecting the signals on the proposals
+  * Presenting
+* Research: Funding public goods
+* Partner with [ISSDG](https://issdg.org/) 
 
 ### Improve the efficiency of Platform Cooperatives
 
-* Refine the list
+* Build the list of current coops
   * dOrg
   * [Stocksy United](https://en.wikipedia.org/wiki/Stocksy_United)
   * [Midata](https://www.midata.coop/)
@@ -44,6 +46,7 @@ Network is a type of organization focused on connecting members for collaboratio
 
 ### Improve the efficiency of Public Communities
 
+* Soft governance practices in blockchain organizations through interviews with HR/Facilitators and teams. Plus existent tools review like loomio or zoom rooms.
 * Fund public goods
   * Stake to come to network + tax
   * Networks on subscription \(Buy-in or work-in\)
@@ -55,10 +58,16 @@ Network is a type of organization focused on connecting members for collaboratio
   * Create Partnerships work \(monthly working group call or else for more efficient research\) \#Governance \(advisors, experts\) Crash test / Ideation
 * Collect / Monthly review grant programs, hackathons, [incubators / accelerators](https://wiki.4irelabs.com/docs/research/blockchain-accelerators-and-incubators)
 * Find sponsors on specific researches
+* \(+Help scholars, ask them to help us with wiki etc\)
 
-## Grants
+#### Use Grants
 
 [**Aragon Nest & Flock**](https://github.com/aragon/nest) ****– Aragon Nest was launched to support projects building fundamental tools and infrastructure, largely around Aragon and Ethereum.
 
 [**Moloch**](https://molochdao.com/) – A community DAO focused on funding Ethereum development, in the name of Moloch the God of Coordination Failure
+
+## Policies
+
+* Public Domain
+* Peer review
 
