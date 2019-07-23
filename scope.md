@@ -20,12 +20,18 @@
 \*\*\*\*
 
 * DAO Landscape Report
-* Signalling Research
-* Identity Standards research
+* * Identity Standards research
 * ID for governance
 * fund distribution case studies
 * CadCAD\*
 * Budgetbox\*
 
 Collaborative strategy session as community driving force
+
+
+
+### Signaling
+
+* Signalling Research \(Tenna\)
+* Holographic consensus
 
