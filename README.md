@@ -17,14 +17,7 @@ Network is a type of organization focused on connecting members for collaboratio
 
 ### Improve the efficiency of Network Foundations
 
-* [Collect the info on the current network governance](https://mapping.daolandscape.today/network-governance/blockchain-summary)
-  * Update the Governance family tree: Ethereum, MakerDAO, Cardano, Grin, Bitcoin, Polkdadot, Cosmos, Decred, MolochDAO  governance case studies. Development on existent governance case studies though deeper analytics and interviews with network stakeholders.
-  * Glossary with words like commons, governance, egalitarian, plutocracy etc.
-* Research: Increase the probability and speed of consensus on protocol changes
-  * Identifying the tensions
-  * Creating proposals
-  * Collecting the signals on the proposals
-  * Presenting
+* Conduct researches on [the topics](scope.md)
 * Research: Funding public goods
 * Partner with [ISSDG](https://issdg.org/) 
 

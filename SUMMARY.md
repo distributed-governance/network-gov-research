@@ -1,10 +1,10 @@
 # Table of contents
 
 * [Strategy](README.md)
+* [Researches](scope.md)
 
 ## Products <a id="products-1"></a>
 
-* [Researches](products-1/scope.md)
 * [DAO Landscape Report](products-1/products.md)
 * [Signalling Research](products-1/signalling-research.md)
 * [Identity Foundation Research](products-1/identity-foundation-research.md)
