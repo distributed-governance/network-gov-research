@@ -1,8 +1,8 @@
 # Researches
 
-## Questions
+## Domains
 
-* Update the Governance family tree: Ethereum, MakerDAO, Cardano, Grin, Bitcoin, Polkdadot, Cosmos, Decred, MolochDAO  governance case studies. Development on existent governance case studies though deeper analytics and interviews with network stakeholders.
+* How are current networks governed. Upsides and downsides of different gogvernance models. Update the Governance family tree: Ethereum, MakerDAO, Cardano, Grin, Bitcoin, Polkdadot, Cosmos, Decred, MolochDAO  governance case studies. Development on existent governance case studies though deeper analytics and interviews with network stakeholders.
 * What are most relevant problems for networks
 * Decreasing the governance costs \(0%\)
 * Making better decisions
@@ -20,7 +20,7 @@
 \*\*\*\*
 
 * DAO Landscape Report
-* * Identity Standards research
+* Identity Standards research
 * ID for governance
 * fund distribution case studies
 * CadCAD\*
@@ -28,10 +28,16 @@
 
 Collaborative strategy session as community driving force
 
-
-
-### Signaling
+#### Signaling
 
 * Signalling Research \(Tenna\)
 * Holographic consensus
+
+### Sources
+
+* Week in ethereum
+* Ethresearch
+* Blockscience
+* Giveth Gov Labs
+* [ISSDG](https://issdg.org/) 
 
