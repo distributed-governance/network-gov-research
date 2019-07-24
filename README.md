@@ -17,7 +17,7 @@ Network is a type of organization focused on connecting members for collaboratio
 
 ### Improve the efficiency of Network Foundations
 
-* Conduct researches on [the topics](scope/)
+* Conduct researches on [the topics](list/scope/)
 * Research: Funding public goods
 * Partner with [ISSDG](https://issdg.org/) 
 

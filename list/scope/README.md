@@ -1,4 +1,4 @@
-# Researches
+# Research Directions
 
 ## Domains
 

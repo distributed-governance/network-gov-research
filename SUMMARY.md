@@ -1,16 +1,17 @@
 # Table of contents
 
 * [Strategy](README.md)
-* [Researches](scope/README.md)
-  * [Cooperatives](scope/cooperatives.md)
-  * [Digital Commons](scope/digital-commons.md)
-* [Library](library.md)
+* [Platform](platform.md)
 
-## Products <a id="products-1"></a>
+## Research <a id="list"></a>
 
-* [DAO Landscape Report](products-1/products.md)
-* [Signalling Research](products-1/signalling-research.md)
-* [Identity Foundation Research](products-1/identity-foundation-research.md)
+* [Research Directions](list/scope/README.md)
+  * [Cooperatives](list/scope/cooperatives.md)
+  * [Digital Commons](list/scope/digital-commons.md)
+* [DAO Landscape Report](list/products.md)
+* [Signalling Research](list/signalling-research.md)
+* [Identity Foundation Research](list/identity-foundation-research.md)
+* [Library](list/library.md)
 
 ## Org
 

@@ -68,7 +68,7 @@ Another potential variant is the idea of a mutual trust model, mainly focused ar
 
 Example: ****MIDATA are a health data co-operative based in Switzerland that enables their members to upload their medical records, mobile-health data and personal genome and can then decide to securely share this data with health professionals and researchers. The platform allows patients to collectively and efficiently make use of their data with profits generated from the voluntary sale of data to researchers.
 
-![](../.gitbook/assets/image-10.png)
+![](../../.gitbook/assets/image-10.png)
 
 Source: [Platform Co-Ops](https://media.nesta.org.uk/documents/Nesta_Platform_Report_FINAL-WEB_b1qZGj7.pdf) \(p 17-20\)
 
