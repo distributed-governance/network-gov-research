@@ -1,7 +1,10 @@
 # Table of contents
 
 * [Strategy](README.md)
-* [Researches](scope.md)
+* [Researches](scope/README.md)
+  * [Cooperatives](scope/cooperatives.md)
+  * [Digital Commons](scope/digital-commons.md)
+* [Library](library.md)
 
 ## Products <a id="products-1"></a>
 
