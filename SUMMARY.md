@@ -5,6 +5,7 @@
 
 ## Research <a id="list"></a>
 
+* [Why dgov now?](list/why-dgov-now.md)
 * [Research Directions](list/scope/README.md)
   * [Cooperatives](list/scope/cooperatives.md)
   * [Digital Commons](list/scope/digital-commons.md)
