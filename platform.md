@@ -9,3 +9,5 @@ Track projects:
 * [https://www.ledgerback.coop/](https://www.ledgerback.coop/)
 * ISSDG
 
+![](.gitbook/assets/image%20%281%29.png)
+
