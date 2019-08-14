@@ -2,9 +2,7 @@
 
 Purpose: Improve the efficiency of the network governance through the research
 
-## Stakeholders & Needs
-
-### Networks Foundations
+## Networks Foundations
 
 Network Foundations \(Ethereum Foundation, Internet Foundation, Decentralized Identity Foundation\). Network is a type of organization focused on connecting members for collaboration and opportunities exchange.
 
@@ -38,6 +36,14 @@ Network Foundations \(Ethereum Foundation, Internet Foundation, Decentralized Id
 * Giveth gov labs
 * [https://1hive.org/](https://1hive.org/)
 * [ISSDG](https://issdg.org/) 
+
+## Coops / DAOs
+
+...
+
+## Researchers
+
+...
 
 ## Policies \(WIP\)
 
